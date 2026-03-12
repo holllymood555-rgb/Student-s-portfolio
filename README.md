@@ -1,2 +1,4 @@
-# Student-s-portfolio
- This is my portfolio for recording the materials I have studied and the examples of my work.
+<h1 align="center">Мое <a href="https://daniilshat.ru/" target="_blank">портфолио</a> 
+Здесь я буду подгружать работы, которые выполняла в ходе изучения FullStack разработки при подготовке к поступлению в магистратуру.
+
+
