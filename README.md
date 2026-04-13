@@ -5,12 +5,12 @@
 <a>HTML, CSS, JavaScript</a>
 <ul>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/61faec6b5acf1d68bb4d9ec490f3a73195a2ec7d/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%D0%BC%D0%B8.zip">Трехстраничный сайт с элементами анимации</a></li>
- <img width="1888" height="917" alt="2026-04-13_17-13-50" src="https://github.com/user-attachments/assets/425901ad-10b6-44db-a913-e444bf4e2581" />
-<img width="838" height="771" alt="2026-04-13_17-14-18" src="https://github.com/user-attachments/assets/997a44d3-c20d-4b48-aa8d-e9628aade717" />
-<img width="755" height="920" alt="2026-04-13_17-14-32" src="https://github.com/user-attachments/assets/a8a882ee-7e5d-4d86-bf43-abb2b2c8efb6" />
+ <img width="400" alt="2026-04-13_17-13-50" src="https://github.com/user-attachments/assets/425901ad-10b6-44db-a913-e444bf4e2581" />
+<img width="400" alt="2026-04-13_17-14-18" src="https://github.com/user-attachments/assets/997a44d3-c20d-4b48-aa8d-e9628aade717" />
+<img width="400" alt="2026-04-13_17-14-32" src="https://github.com/user-attachments/assets/a8a882ee-7e5d-4d86-bf43-abb2b2c8efb6" />
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BF%D0%BE%20%D0%BF%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8F%D0%BC.zip">Попиксельная верстка</a></li>
-<img width="1892" height="956" alt="2026-04-13_17-16-25" src="https://github.com/user-attachments/assets/9c295a20-cd66-41dc-953b-6a739f388a2e" />
-<img width="1891" height="953" alt="2026-04-13_17-16-48" src="https://github.com/user-attachments/assets/0e03b68a-8956-4d8d-84b5-9d52ea98ac61" />
+<img width="400" alt="2026-04-13_17-16-25" src="https://github.com/user-attachments/assets/11327149-156e-46bb-86a8-777fe5a9bbd5" />
+<img width="400" alt="2026-04-13_17-16-48" src="https://github.com/user-attachments/assets/98b2b53c-72fb-4429-bb1d-589fe33e2d1b" />
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%20bootstrap.zip">Весртка с использованием Bootstrap</a></li>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%20bootstrap%202.zip">Весртка с использованием Bootstrap</a></li>
 </ul>
