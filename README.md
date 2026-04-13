@@ -12,8 +12,8 @@
   <br>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BF%D0%BE%20%D0%BF%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8F%D0%BC.zip">Попиксельная верстка</a></li>
   <br>
-<img width="400" alt="2026-04-13_17-16-25" src="https://github.com/user-attachments/assets/11327149-156e-46bb-86a8-777fe5a9bbd5" />
-<img width="400" alt="2026-04-13_17-16-48" src="https://github.com/user-attachments/assets/98b2b53c-72fb-4429-bb1d-589fe33e2d1b" />
+<img width="500" alt="2026-04-13_17-16-25" src="https://github.com/user-attachments/assets/11327149-156e-46bb-86a8-777fe5a9bbd5" />
+<img width="500" alt="2026-04-13_17-16-48" src="https://github.com/user-attachments/assets/98b2b53c-72fb-4429-bb1d-589fe33e2d1b" />
   <br>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%20bootstrap.zip">Весртка с использованием Bootstrap</a></li>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D1%81%20bootstrap%202.zip">Весртка с использованием Bootstrap</a></li>
