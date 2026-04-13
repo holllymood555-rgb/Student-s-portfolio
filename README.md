@@ -20,7 +20,5 @@
 <ul>
 <li><a href="https://drive.google.com/file/d/1BVTWSIg0HU4dmwo9l4i1KVzlAkK-2Jv9/view?usp=sharing">Портал с возможностью добавления записей, развертываемый через Docker на localhost</a></li>
 </ul>
-![8l5E_gkgokaEWAUlkIqAO-plsYrGtGaGRTI9TGTViirPPk6DaKHrQ_LI0lyu3DqpOdG6LZk0axeIIPklMWA08ygB](https://github.com/user-attachments/assets/ab2b6b76-f6f5-49e8-80df-bbe9808077c6)
-<img width="1892" height="956" alt="2026-04-13_17-16-25" src="https://github.com/user-attachments/assets/b29d90c5-e823-4b78-82df-79096390ba2c" />
-![7M_IdAQMEJ0R1m4Cnw3JNlgYebsZasW_av_jAp8jvEap_QsjZqzN0nSm1ouIK2PeGUjg5PtLGPD7UVFXJW5hw-Op](https://github.com/user-attachments/assets/49c6c91c-2268-4689-b362-3295b3617cad)
+
 
