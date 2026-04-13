@@ -15,3 +15,5 @@
 <ul>
 <li><a href="https://drive.google.com/file/d/1BVTWSIg0HU4dmwo9l4i1KVzlAkK-2Jv9/view?usp=sharing">Портал с возможностью добавления записей, развертываемый через Docker на localhost</a></li>
 </ul>
+![8l5E_gkgokaEWAUlkIqAO-plsYrGtGaGRTI9TGTViirPPk6DaKHrQ_LI0lyu3DqpOdG6LZk0axeIIPklMWA08ygB](https://github.com/user-attachments/assets/a297069b-9144-4d58-a6fb-b2f69419cc1c)
+![7M_IdAQMEJ0R1m4Cnw3JNlgYebsZasW_av_jAp8jvEap_QsjZqzN0nSm1ouIK2PeGUjg5PtLGPD7UVFXJW5hw-Op](https://github.com/user-attachments/assets/493a5d8a-e6c3-4dfa-8525-6aedf7fddc18)
