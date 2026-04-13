@@ -6,6 +6,7 @@
 <ul>
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/61faec6b5acf1d68bb4d9ec490f3a73195a2ec7d/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%D0%BC%D0%B8.zip">Трехстраничный сайт с элементами анимации</a></li>
  <img width="400" alt="2026-04-13_17-13-50" src="https://github.com/user-attachments/assets/425901ad-10b6-44db-a913-e444bf4e2581" />
+ <br>
 <img width="400" alt="2026-04-13_17-14-18" src="https://github.com/user-attachments/assets/997a44d3-c20d-4b48-aa8d-e9628aade717" />
 <img width="400" alt="2026-04-13_17-14-32" src="https://github.com/user-attachments/assets/a8a882ee-7e5d-4d86-bf43-abb2b2c8efb6" />
 <li><a href="https://github.com/holllymood555-rgb/Student-s-portfolio/blob/ec191058a3c43168e6bf4aec6746acd14fbdcb16/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BF%D0%BE%20%D0%BF%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8F%D0%BC.zip">Попиксельная верстка</a></li>
